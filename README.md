@@ -1,11 +1,11 @@
 # Pizza Restaurants
 
-#### Created By Amar ahmed mon 22 jan 2024.
+#### Created By Owen Smith wed 30 jan 2024.
 
 
 ## Introduction
 
-For this assessment, you'll be working with a Pizza Restaurant domain.
+For this assessment, you'll be working with a Pizza Restaurant dweb.
 
 The job here is to build out the Flask API to add the functionality described in the deliverables below.
 
@@ -179,11 +179,11 @@ No known bugs at the moment
 
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
-- Email: amaar.ahmednur@student.moringaschool.com
+- Email: owen31588@gmail.com
 
 ## License
 
-Copyright (c) {{ 2024 }}, {{ Amar ahmed }}
+Copyright (c) {{ 2024 }}, {{ Owen Smith}}
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
